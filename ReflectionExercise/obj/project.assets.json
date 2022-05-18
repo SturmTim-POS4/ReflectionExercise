@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "DummyLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DummyLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DummyLib.dll": {}
+        }
+      },
+      "ShapeLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ShapeLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShapeLib.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "DummyLib/1.0.0": {
+      "type": "project",
+      "path": "../DummyLib/DummyLib.csproj",
+      "msbuildProject": "../DummyLib/DummyLib.csproj"
+    },
+    "ShapeLib/1.0.0": {
+      "type": "project",
+      "path": "../ShapeLib/ShapeLib.csproj",
+      "msbuildProject": "../ShapeLib/ShapeLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "DummyLib >= 1.0.0",
+      "ShapeLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\timst\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ReflectionExercise\\ReflectionExercise.csproj",
+      "projectName": "ReflectionExercise",
+      "projectPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ReflectionExercise\\ReflectionExercise.csproj",
+      "packagesPath": "C:\\Users\\timst\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ReflectionExercise\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\timst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6-windows",
+          "projectReferences": {
+            "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\DummyLib\\DummyLib.csproj": {
+              "projectPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\DummyLib\\DummyLib.csproj"
+            },
+            "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ShapeLib\\ShapeLib.csproj": {
+              "projectPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ShapeLib\\ShapeLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

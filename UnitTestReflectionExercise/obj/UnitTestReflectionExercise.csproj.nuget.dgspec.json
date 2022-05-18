@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\UnitTestReflectionExercise\\UnitTestReflectionExercise.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\DummyLib\\DummyLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\DummyLib\\DummyLib.csproj",
+        "projectName": "DummyLib",
+        "projectPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\DummyLib\\DummyLib.csproj",
+        "packagesPath": "C:\\Users\\timst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\DummyLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\timst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ReflectionExercise\\ReflectionExercise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ReflectionExercise\\ReflectionExercise.csproj",
+        "projectName": "ReflectionExercise",
+        "projectPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ReflectionExercise\\ReflectionExercise.csproj",
+        "packagesPath": "C:\\Users\\timst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ReflectionExercise\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\timst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6-windows",
+            "projectReferences": {
+              "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\DummyLib\\DummyLib.csproj": {
+                "projectPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\DummyLib\\DummyLib.csproj"
+              },
+              "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ShapeLib\\ShapeLib.csproj": {
+                "projectPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ShapeLib\\ShapeLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ShapeLib\\ShapeLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ShapeLib\\ShapeLib.csproj",
+        "projectName": "ShapeLib",
+        "projectPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ShapeLib\\ShapeLib.csproj",
+        "packagesPath": "C:\\Users\\timst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ShapeLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\timst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\UnitTestReflectionExercise\\UnitTestReflectionExercise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\UnitTestReflectionExercise\\UnitTestReflectionExercise.csproj",
+        "projectName": "UnitTestReflectionExercise",
+        "projectPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\UnitTestReflectionExercise\\UnitTestReflectionExercise.csproj",
+        "packagesPath": "C:\\Users\\timst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\UnitTestReflectionExercise\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\timst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6-windows",
+            "projectReferences": {
+              "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ReflectionExercise\\ReflectionExercise.csproj": {
+                "projectPath": "C:\\Users\\timst\\Desktop\\Schule\\4.Klasse\\POS1\\ReflectionExercise\\ReflectionExercise\\ReflectionExercise.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6-windows",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ReflectionExercise\ShapeLib\bin\Debug\net6-windows\ShapeLib.deps.json
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ReflectionExercise\ShapeLib\bin\Debug\net6-windows\ShapeLib.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ReflectionExercise\ShapeLib\bin\Debug\net6-windows\ref\ShapeLib.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ReflectionExercise\ShapeLib\bin\Debug\net6-windows\ShapeLib.pdb
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ReflectionExercise\ShapeLib\obj\Debug\net6-windows\ShapeLib.csproj.AssemblyReference.cache
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ReflectionExercise\ShapeLib\obj\Debug\net6-windows\ShapeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ReflectionExercise\ShapeLib\obj\Debug\net6-windows\ShapeLib.AssemblyInfoInputs.cache
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ReflectionExercise\ShapeLib\obj\Debug\net6-windows\ShapeLib.AssemblyInfo.cs
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ReflectionExercise\ShapeLib\obj\Debug\net6-windows\ShapeLib.csproj.CoreCompileInputs.cache
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ReflectionExercise\ShapeLib\obj\Debug\net6-windows\ShapeLib.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ReflectionExercise\ShapeLib\obj\Debug\net6-windows\ref\ShapeLib.dll
+C:\Users\timst\Desktop\Schule\4. Klasse\POS1\ReflectionExercise\ShapeLib\obj\Debug\net6-windows\ShapeLib.pdb
